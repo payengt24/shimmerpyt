@@ -1,7 +1,6 @@
 {
   "name": "shimmerpyt",
   "version": "0.0.1",
-  "private": true,
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
@@ -27,5 +26,17 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "description": "Shimmer hello world",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/payengt24/shimmerpyt.git"
+  },
+  "author": "Pa Yeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/payengt24/shimmerpyt/issues"
+  },
+  "homepage": "https://github.com/payengt24/shimmerpyt#readme"
 }
